@@ -1,0 +1,6 @@
+name: sbFarming
+version: '${project.version}'
+main: lt.tomexas.sbfarming.Main
+api-version: 1.18
+depend:
+  - ItemsAdder
